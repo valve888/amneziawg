@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  APP_NAME: wg-easy-coredns
+  APP_NAME: amneziawg
   USERNAME: gtrass
 
 jobs:
